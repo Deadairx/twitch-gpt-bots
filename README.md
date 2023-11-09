@@ -13,4 +13,10 @@ You will need the following variables set:
 - `TWITCH_OAUTH`: Oauth Token for your bot. (one can be obtained [here](https://twitchapps.com/tmi/))
 - `OPENAI_API_KEY`: OpenAI API key secret
 
+## System
+
+To set up custom responses, use [system](system.txt) to setup the OpenAI Chat system
+
+- [❌] Test multi-user conversations that don't apply to eachother
+
 
